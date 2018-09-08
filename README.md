@@ -19,7 +19,7 @@ Veja as principais tecnologias utilizadas nesse projeto.
 -   Caso tenha baixado o projeto zipado: `` $ cd todo-app-com-vuejs-master/``
 3. Inicie o servidor web, executando o comando: `` $ npm start ``.
 4. Se tudo ocorrer bem, será exibida a seguinte mensagem no console:\
-    ![Mensagem de servidor iniciado com sucesso](https://raw.githubusercontent.com/rafaelfilholm/todo-app-com-vuejs/master/screenshots/msg-server-started.png)
+    ![Mensagem de servidor iniciado com sucesso](https://raw.githubusercontent.com/rafaelfilholm/todo-app-com-vuejs/master/screenshots/msg-server-started.png)\
     A porta será definida com base na variável de ambiente PORT, ou caso ela não exista, será definida a porta 3000.
 5. Abra no navegador o endereço: http://localhost:_port_/ (Substituir _port_ pela porta que o servidor está rodando).\
     ![Dashboard do app](https://raw.githubusercontent.com/rafaelfilholm/todo-app-com-vuejs/master/screenshots/dashboard.png)
