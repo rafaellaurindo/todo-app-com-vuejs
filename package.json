@@ -1,0 +1,35 @@
+{
+  "name": "primeira-app-com-vuejs",
+  "version": "1.0.0",
+  "description": "Minha primeira aplicação com Vue.js",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglifycss": "^1.1.0",
+    "vue": "^2.5.17"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelfilholm/primeira-app-com-vuejs.git"
+  },
+  "keywords": [
+    "vuejs",
+    "node"
+  ],
+  "author": "Rafael Laurindo <rafaelfilholm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelfilholm/primeira-app-com-vuejs/issues"
+  },
+  "homepage": "https://github.com/rafaelfilholm/primeira-app-com-vuejs#readme"
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<title>ToDoList</title>
+	<link rel="stylesheet" href="dist/css/style.min.css" />
+</head>
+
+<body>
+	<div id="app">
+		
+		<app-header></app-header>
+		
+		<div class="container">
+			<div class="row">
+				<div class="col-md-10 offset-md-1">
+					<div class="row">
+						<div class="col-md-12">
+							<task-add></task-add>
+						</div>
+					</div>
+
+					<br>
+
+					<tasks-list></tasks-list>
+
+					<hide-tasks-finished></hide-tasks-finished>
+
+					<hr>
+
+				</div>
+			</div>
+		</div>
+
+		<app-footer></app-footer>
+
+	</div>
+
+	<script src="dist/js/lib.js"></script>
+	<script src="dist/js/app.min.js"></script>
+</body>
+</html>
